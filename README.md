@@ -1,4 +1,4 @@
-# XGBoost
+#Xgboost
 
 XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.Bagging and Boosting are 2 main types of decision tree ensemble.
 # XGBoost properties:
